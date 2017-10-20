@@ -1,0 +1,41 @@
+#btnAdd {
+   position: absolute;
+   right: 5px;
+   bottom: 5px;
+}
+
+.mdl-card__actions{
+   padding-top: 0px;
+}
+
+.mdl-card__title{
+   padding-bottom: 0px;
+   text-align: center;   
+   width: 100%;
+}
+
+.weather-card-image {
+   float: left;
+
+   margin-right: 10px;
+   margin-left: 10px;
+}
+
+.weather-card-image > img {
+   width: 115px;
+}
+
+.weather-card-temp {
+   float: right;
+   margin-top: 20px;
+   font-size: 72px;
+}
+
+.mdl-card__title {
+    font-size: 24px;
+}
+
+.mdl-card__supporting-text{
+   padding: 5px;
+   text-align: center;
+}
